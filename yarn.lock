@@ -1108,19 +1108,19 @@
     "@babel/helper-validator-identifier" "^7.14.0"
     to-fast-properties "^2.0.0"
 
-"@chakra-ui/nuxt@^0.3.2":
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/nuxt/-/nuxt-0.3.2.tgz#58dbb30549c75f65e8bca0cd316bf730e06a94e7"
-  integrity sha512-0Oi+/SIfpR3xRCR3khL7n3vz2OJm6YknQbuwHVUu1eQ9V967hXK8514TGby/EM2WAgzJ2JOKlfIg4inZGNzsbQ==
+"@chakra-ui/nuxt@^0.3.5":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/nuxt/-/nuxt-0.3.5.tgz#f5b552fe0210a7a404d413532f40b2fece58dd05"
+  integrity sha512-1OMVIcPZ99hSZX82ZD5WVdh3QTHmeKpj0eg/+goIbNSj7uf0gMtndPE6NhUtyRP7/lj5gAxuShwNW32OjdqLUQ==
   dependencies:
-    "@chakra-ui/vue" "^0.9.0"
+    "@chakra-ui/vue" "^0.9.4"
     "@emotion/css" "^11.0.0"
     chakra-loader latest
 
-"@chakra-ui/vue@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/vue/-/vue-0.9.0.tgz#e5082e17f303157468762d79aa68c75a91c62620"
-  integrity sha512-MpCugWdI37apkCOinVICjIBkBtXuFioltZoOP6bNfWGZQ0r+bb72sY51ORVx2Cbr7bu97UT0E3/JEh3YEIc/Dw==
+"@chakra-ui/vue@^0.9.4":
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/vue/-/vue-0.9.4.tgz#f9b461b127ac10d59f6a084e094eef739ee94baa"
+  integrity sha512-H8jh7XE9PtYKEvhOJdlQ2QanmOziWJUWgfnMAmoIts2edbbdctvLRHDcYzQN7WTnfHz2aQNOZvRfTFktmmKxGA==
   dependencies:
     "@popperjs/core" "^2.4.0"
     "@styled-system/css" "^5.0.23"
